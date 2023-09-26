@@ -26,20 +26,21 @@ url: "https://MattLindeman.github.io" #  change this to "https://<your-github-us
 image: https://unsplash.com/photos/y2azHvupCVo
 author: Matt Lindeman
 copyright: ML # Your initials or what you want the copyright to be.  Leave empty for no copyright
-footer_description:
+footer_description: 'The default image for the site header is a random image from 
+        <a href="https://unsplash.com/photos/y2azHvupCVo" target="_blank"> Unsplash</a>. 
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username:
+twitter_username: 
 github_username: MattLindeman
 linkedin_username: linkedin.com/in/matt-lind/
 dribbble_username: 
 facebook_username: 
-flickr_username:
+flickr_username: 
 instagram_username: 
-pinterest_username:
+pinterest_username: 
 youtube_username: 
-googleplus_username:
+googleplus_username: 
 
 plugins:
   - jekyll-feed

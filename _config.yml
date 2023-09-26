@@ -20,8 +20,8 @@
 
 title: "Data Science: Mingled with Sports"
 email: ml636@byu.edu
-description: "This is a data science blog that discusses basic statistics and data science topics. I also have a love for sports that will often find its way into mt posts." 
-baseurl: "/stat386-blog-theme" # the name of the repository 
+description: "This is a data science blog that discusses basic statistics and data science topics. I also have a love for sports that will often find its way into my posts." 
+baseurl: # the name of the repository 
 url: "https://MattLindeman.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://unsplash.com/photos/y2azHvupCVo
 author: Matt Lindeman

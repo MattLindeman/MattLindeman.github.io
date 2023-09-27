@@ -23,7 +23,7 @@ email: ml636@byu.edu
 description: "This is a data science blog that discusses basic statistics and data science topics. I also have a love for sports that will often find its way into my posts." 
 baseurl: "" # the name of the repository 
 url: "https://www.MattLindeman.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://unsplash.com/photos/y2azHvupCVo
+image: /assets/images/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg
 author: Matt Lindeman
 copyright: ML # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description:  

@@ -8,7 +8,9 @@ image: "/assets/images/nick-jio-57rD2oDZquc-unsplash.jpg"
 
 Analyzing NCAA basketball is unique because of the extremely large amount of players and teams to compare. That consideration makes college basketball both fun and challenging. While this post won't be able to go too in-depth, I will touch on things that will hopefully give everyone a good starting point.
 
-## Favorite ncaahoopR Features
+## NcaahoopR
+
+### Scraping Features
 
 My favorite package to use in R for college basketball data is called [ncaahoopR](https://github.com/lbenz730/ncaahoopR). I've provided a link to the GitHub for the package for anyone interested in learning all the package has to offer. One of the best aspects of ncaahoopR is its ability to scrape date from ESPN. Here are some of the choices of what can be scraped:
 
@@ -27,6 +29,8 @@ My favorite package to use in R for college basketball data is called [ncaahoopR
 * Get the player stats for a given team and season
 
 The scraping features I use the most out of those is getting play-by-play data and getting player stats for a season. Play-by-play data can be hard to find in a format that is easily searchable and parsed, but the data returned by ncaahoopR is great. The play-by-play data can then be searched to find all the three-point plays, or to find all the plays a particular player was involved in. This can be useful to analyze how often particular plays or events occur or, because the data comes with game time stamps, to analyze timing scenarios such as late game situations. 
+
+### Visualization Features
 
 The ncaahoopR package also has incredible visualization tools that can make data easier to present and understand. Here are the main visualiztion features:
 

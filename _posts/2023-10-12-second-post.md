@@ -83,7 +83,7 @@ wp_chart_new(game_id, home_col = NULL, away_col = NULL, include_spread = T, show
 wp_chart_new(401403405)  # Iowa v Indiana Mar 12 2022
 ```
 
-![Figure]({{site.url}}/{{site.baseurl}}/assets/images/wp_chart_new.jpg)
+![Figure](/assets/images/wp_chart_new.jpg)
 
 The win probability chart shows where the win probability was for each team for each minute interval of the game. This can be used to see where big shifts in win probability occurred, and then return back to the play-by-play data to learn what occured around that time of the game that could have caused the shift. If something good occurred to shift the probability, then the team can work on replicating that, and vice versa for preventing plays that negatively shifted the probability. 
 

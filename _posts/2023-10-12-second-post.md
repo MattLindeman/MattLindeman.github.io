@@ -10,7 +10,7 @@ Analyzing NCAA basketball is unique because of the extremely large amount of pla
 
 # NcaahoopR
 
-My favorite package to use in R for college basketball data is called [ncaahoopR](https://github.com/lbenz730/ncaahoopR). I've provided a link to the GitHub for the package for anyone interested in learning all the package has to offer. For starters, downloading the package in R takes installing it from GitHub with this code:
+My favorite package to use in R for college basketball data is called [ncaahoopR](https://github.com/lbenz730/ncaahoopR). I've provided a link to the GitHub page for the package for anyone interested in learning all the package has to offer. For starters, downloading the package in R takes installing it from GitHub with this code:
 
 ```
 # install.packages("devtools")

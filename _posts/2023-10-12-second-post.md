@@ -19,7 +19,7 @@ devtools::install_github("lbenz730/ncaahoopR")
 
 ## Scraping Features
 
-Once the package is installed and loaded into the environement, then you can use the many built in functions that comes with the package. One of the best aspects of ncaahoopR is its ability to scrape date from ESPN. Here are some of the choices of what can be scraped, along with the code to execute them:
+Once the package is installed and loaded into the environement, then you can use the many built-in functions that come with the package. One of the best aspects of ncaahoopR is its ability to scrape date from ESPN. Here are some of the choices of what can be scraped, along with the code to execute them:
 
 * __Play-by-play data for a given team and season__
 
@@ -70,7 +70,7 @@ season_boxscore(team, season = current_season, aggregate = 'average')
 season_boxscore("BYU", season = "2022-23")  # BYU player stats for the 2022-23 season
 ```
 
-The scraping features I use the most out of those is getting play-by-play data and getting player stats for a season. Play-by-play data can be hard to find in a format that is easily searchable and parsed, but the data returned by ncaahoopR is great. The play-by-play data can then be searched to find all the three-point plays, or to find all the plays a particular player was involved in. This can be useful to analyze how often particular plays or events occur or, because the data comes with game time stamps, to analyze timing scenarios such as late game situations. As for having player stats, those are integral because they give an idea of how and where a player is producing when on the court. 
+The scraping features I use the most out of those are getting play-by-play data and getting player stats for a season. Play-by-play data can be hard to find in a format that is easily searchable and parsed, but the data returned by ncaahoopR is great. The play-by-play data can then be searched to find all the three-point plays, or to find all the plays a particular player was involved in. This can be useful to analyze how often particular plays or events occur or, because the data comes with game time stamps, to analyze timing scenarios such as late game situations. As for having player stats, those are integral because they give an idea of how and where a player is producing when on the court. 
 
 ## Visualization Features
 

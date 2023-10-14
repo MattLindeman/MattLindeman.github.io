@@ -94,7 +94,7 @@ game_flow(game_id, home_col, away_col)
 game_flow(game_id = 401082669, home_col = "blue", away_col = "navy")  # Kentucky v Duke Nov 6 2018
 ```
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/game_flow.jpg"/>
+![Figure](/assets/images/game_flow.jpg)
 
 Game flow charts can be used in a similar respect to the win probability because they show how the score changed for each minute interval of the game. Focus on particular minutes to see what can be replicated or prevented in the future.
 
@@ -105,7 +105,7 @@ assist_net(team, season, node_col, three_weights = T, threshold = T, message = N
 assist_net(team = "Oklahoma", node_col = "firebrick4", season = c(400989185))  # Oklahoma assist network v Kansas Jan 23 2018
 ```
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/oklahoma.jpg"/>
+![Figure](/assets/images/oklahoma.jpg)
 
 Assist networks are unique because they show how many assists a player gave and/or received in a game. This is useful to see how often particular players are involved in scoring that involves assists. Quantifying a team's assists can help give specific, measurable goals when it comes to improving assists as a team. 
 
@@ -116,7 +116,7 @@ game_shot_chart(game_id, heatmap = F)
 game_shot_chart(game_id = 401168364)  # Dayton v Kansas Nov 27 2019
 ```
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/shot_chart.jpg"/>
+![Figure](/assets/images/shot_chart.jpg)
 
 Shot charts show where shots were taken on the floor and whether it was a make or a miss. This is useful in understanding a team's shot tendencies and where shooting strengths and weaknesses lie. This shows where improvements can be made or where defensive adjustments can be made.
 
